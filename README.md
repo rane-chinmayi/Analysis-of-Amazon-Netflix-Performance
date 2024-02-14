@@ -1,4 +1,4 @@
-# Analysis of Amazon-Netflix-Performance
+# Analysis of Amazon-Netflix-Performance in Tableau
  
 ![](AtGlance.png)
 ![](NFLX.png)
