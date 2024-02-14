@@ -1,5 +1,5 @@
 # Analysis of Amazon-Netflix-Performance in Tableau
-Link to Tableau file - [Download Visualization Twbx File](Tableau File.twbx)
+Link to Tableau file - [Download Visualization Twbx File]([Tableau File.twbx](https://github.com/rane-chinmayi/Analysis-of-Amazon-Netflix-Performance/blob/main/Tableau%20File.twbx))
 
 ## Project Objectives:
 - Get an overview  of content produced by Netflix and Amazon Prime
